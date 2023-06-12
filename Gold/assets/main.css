@@ -42,7 +42,9 @@ img{
     text-align: center;
     padding: 15px 0;
 }
-
+.banner {
+    overflow-x: hidden;
+}
 .main-product {
     max-width: 1240px;
     /* display: flex; */
